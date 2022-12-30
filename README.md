@@ -18,10 +18,6 @@ You are looking at the repository for Vue 2. The repo for Vue 3 is [vuejs/core](
 Vue.js is an MIT-licensed open source project with its ongoing development made possible entirely by the support of these awesome [backers](https://github.com/vuejs/core/blob/main/BACKERS.md). If you'd like to join them, please consider [ sponsor Vue's development](https://vuejs.org/sponsor/).
 
 <p align="center">
-<<<<<<< HEAD
-  <a target="_blank" href="https://vuejs.org/sponsor/#current-sponsors">
-    <img alt="sponsors" src="https://sponsors.vuejs.org/sponsors.svg">
-=======
   <h3 align="center">Special Sponsor</h3>
 </p>
 
@@ -34,7 +30,6 @@ Vue.js is an MIT-licensed open source project with its ongoing development made 
 <p align="center">
   <a target="_blank" href="https://vuejs.org/sponsor/">
     <img alt="sponsors" src="https://sponsors.vuejs.org/sponsors.svg?v2">
->>>>>>> main
   </a>
 </p>
 
